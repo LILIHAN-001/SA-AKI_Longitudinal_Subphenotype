@@ -1,6 +1,0 @@
-source /home/hanl/miniconda3/etc/profile.d/conda.sh
-conda activate sp_shock
-python tmp_shap.py >temp-process.txt 2>temp-error.txt
-conda deactivate
-
-
